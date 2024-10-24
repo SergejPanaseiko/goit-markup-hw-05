@@ -608,3 +608,8 @@ max-width: 264px;
 .form-icon-cross{
 transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.modal-open:hover .form-icon-cross,
+.modal-open:focus .form-icon-cross
+{
+     fill: #ffffff;
+}
