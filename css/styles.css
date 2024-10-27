@@ -740,3 +740,9 @@ background-color: #404bbf;
      visibility: hidden;
      pointer-events: none;
 }
+.footer-form-input{
+     display: flex;
+}
+.footer-form{
+     
+}
