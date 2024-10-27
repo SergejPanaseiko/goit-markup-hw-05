@@ -711,4 +711,18 @@ color: #8e8f99;
      justify-content: center;
      fill: transparent;
 }
+.modal-btn{
+display: block;
+min-width: 169px;
+height: 56px;
+font-family: "Roboto";
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
+background-color: #4D5AE5;
+border: none;
+}
 
