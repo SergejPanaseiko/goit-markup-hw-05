@@ -734,7 +734,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
      background-color: #404bbf;
      border: none;
 }
-.modal-field-check:checked .modal-form-span{
+.checkbox:checked + .modal-field-input>.modal-form-span{
 background-color: #404bbf;
 border: none;
 fill: #F4F4FD;
