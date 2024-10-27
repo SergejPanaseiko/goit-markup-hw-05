@@ -745,7 +745,7 @@ background-color: #404bbf;
 }
 .footer-form{
      display: flex;
-     gap 24px;
+     gap: 24px;
 }
 .footer-subscribe-text{
      margin-bottom: 16px;
