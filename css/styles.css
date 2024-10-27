@@ -744,7 +744,8 @@ background-color: #404bbf;
      display: flex;
 }
 .footer-form{
-
+     display: flex;
+     gap 24px;
 }
 .footer-subscribe-text{
      margin-bottom: 16px;
@@ -753,4 +754,7 @@ background-color: #404bbf;
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: #ffffff;
+}
+.footer-form-label{
+
 }
