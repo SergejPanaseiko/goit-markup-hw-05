@@ -744,11 +744,11 @@ background-color: #404bbf;
 .modal-check-link{
      color:#4d5ae5;
 }
-.is-open{
+/* .is-open{
      opacity: 0;
      visibility: hidden;
      pointer-events: none;
-}
+} */
 
 
 /* -------------------- FOOTER-FORM ---------------------*/
