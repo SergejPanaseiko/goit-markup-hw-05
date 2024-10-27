@@ -489,7 +489,7 @@ margin: 0 auto;
      width: 208px;
      align-items: flex-start;
      flex-direction: column;
-
+     margin-right: 80px;
 }
 .footer-soc-text {
      font-weight: 500;
