@@ -601,6 +601,7 @@ max-width: 264px;
      cursor: pointer;
      transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1);   
 }
+
 .modal-open:hover,
 .modal-open:focus{
      background-color: #404bbf;
@@ -728,6 +729,11 @@ cursor: pointer;
 background-color: #4D5AE5;
 border: none;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.modal-btn:hover,
+.modal-btn:focus {
+     background-color: #404bbf;
+     border: none;
 }
 .modal-field-check:checked+.modal-check-text-span{
 background-color: #404bbf;
