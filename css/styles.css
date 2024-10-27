@@ -740,6 +740,12 @@ background-color: #404bbf;
 .modal-check-link{
      color:#4d5ae5;
 }
+.modal-form-span{
+     width: 16px;
+     height: 16px;
+     border: 1px solid rgba(46, 47, 66, 0.4);
+     border-radius: 2px;
+}
 /* .is-open{
      opacity: 0;
      visibility: hidden;
