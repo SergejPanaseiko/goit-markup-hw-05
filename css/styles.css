@@ -791,3 +791,9 @@ color: #ffffff;
 .footer-menu-svg{
      margin-left: 16px;
 }
+.footer-form-btn:hover{
+background-color: #404bbf;
+border: none;
+background-color: #404bbf;
+border: none;
+}
