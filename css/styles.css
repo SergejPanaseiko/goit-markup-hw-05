@@ -740,6 +740,8 @@ background-color: #404bbf;
      visibility: hidden;
      pointer-events: none;
 }
+
+
 .footer-form-input{
      display: flex;
 }
@@ -754,9 +756,6 @@ background-color: #404bbf;
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: #ffffff;
-}
-.footer-form-label{
-
 }
 .footer-form-input{
 width: 264px;
@@ -788,12 +787,10 @@ color: #ffffff;
      border: none;
      border-radius: 4px;
 }
-.footer-menu-svg{
-     margin-left: 16px;
-}
 .footer-form-btn:hover{
 background-color: #404bbf;
 border: none;
-background-color: #404bbf;
-border: none;
+}
+.footer-menu-svg{
+     margin-left: 16px;
 }
