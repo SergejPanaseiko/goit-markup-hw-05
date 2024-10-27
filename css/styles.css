@@ -729,4 +729,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .modal-field-check:checked+.modal-check-text-span{
 background-color: #404bbf;
 }
+.modal-check-link{
+     color:#4d5ae5;
+}
 
